@@ -2,3 +2,4 @@ hello-world
 jenkins/jenkins:2.426.2-lts
 centos:latest
 python:3.9
+openjdk:11-jdk
